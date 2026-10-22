@@ -13,20 +13,28 @@
 ## 🚀 Projects
 - **[C Modules](./C-Modules)**
 - **[Libft](./ImprovedLibft)**
+- **[Push Swap](./PushSwap)**
 
 ## 💻 Skills Developed
 
 ### Hard Skills
 
 #### Programming Languages
-- **C** - Low-level programming, memory management, pointers
-- **Shell/Bash** - Scripting and automation
+- **C** - Low-level programming, memory management, pointers, and custom library development
+- **Shell/Bash** - Scripting, process execution, pipelines, redirections, and automation
 
 #### Core Concepts
-- Data structures (linked lists, stacks)
-- Sorting and search algorithms
-- Memory allocation and management
-- File I/O and system calls
+- **Custom C libraries** - Building reusable functions, static libraries, and robust utility implementations
+- **Formatted output** - Variadic functions, format parsing, type conversion, and output handling
+- **Data structures** - Linked lists, stacks, queues, arrays, and efficient state management
+- **Sorting algorithms** - Stack-based sorting, algorithm optimization, operation counting, and problem-solving under constraints
+- **2D game logic** - Map validation, flood fill, pathfinding, event handling, rendering, and memory-safe game state management
+- **Inter-process communication** - Unix signals, signal handlers, bit manipulation, client-server communication, and process synchronization
+- **Process management** - `fork`, `execve`, `wait`, file descriptors, pipes, redirections, heredocs, and command execution
+- **Shell development** - Lexing, parsing, command execution, environment variables, builtins, signals, pipelines, and I/O redirection
+- **Memory allocation and management** - Dynamic allocation, leak prevention, pointer safety, and structured cleanup
+- **File I/O and system calls** - Working with file descriptors, open/read/write/close, pipes, processes, and Unix system interfaces
+- **Debugging and testing** - Valgrind, edge-case testing, error handling, and defensive programming
 
 #### Tools & Technologies
 - **Git/GitHub** - Version control and collaboration
