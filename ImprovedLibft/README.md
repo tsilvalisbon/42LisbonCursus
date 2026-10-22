@@ -26,7 +26,7 @@ Compilation Steps:
    - make re: Performs a clean recompilation
    - make bonus: Compiles the library including bonus functions
 
-Usage
+## Usage
 
 Including in Your Project:
 1. Compile the library to generate improvedlibft.a
@@ -38,7 +38,7 @@ Including in Your Project:
 
    gcc your_program.c improvedlibft.a
 
-Function Categories
+## Function Categories
 
 Part 1: Libc Functions
 Standard C library functions recreated from scratch, including:
@@ -51,15 +51,10 @@ Memory allocation functions, string manipulation functions, conversion functions
 Bonus: Linked List Functions
 Operations for managing linked lists:
 
-Project Goals
+## Project Goals
 
 - Build a solid foundation in C programming
 - Master memory management and pointer manipulation
 - Understand how standard library functions work internally
 - Develop debugging and problem-solving skills
 - Create a reusable library for future 42 projects
-
-
-Author:
-
-tsilvalisbon
